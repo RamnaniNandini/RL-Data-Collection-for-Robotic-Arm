@@ -75,7 +75,7 @@ The final data(episode1.npy, episode2.npy and so on) is stored in collected data
 
 As the data is collected in array format to check whether the data stored is correct or not, I have added the check_data_collection.py node, after executing it, it shows the frames obtained by 100 observations in 1 episode by both the cameras.
 
-Link for accessing the code, obtained results and video as an output have been saved in this link.
+Link for accessing the code, obtained results and video as an output have been saved in this [link](https://drive.google.com/drive/folders/17jle0YfYDZPdx0Yy6Q9SQWYW3EV6fO3J?usp=drive_link).
 
 
 
