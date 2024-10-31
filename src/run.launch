@@ -1,0 +1,5 @@
+<launch>
+  <node name="usb_cam_node" pkg="rl_data" type="usb_cam_node.py" output="screen"/>
+  <node name="realsense_node" pkg="rl_data" type="realsense_node.py" output="screen"/>
+  <node name="data_collection" pkg="rl_data" type="data_collection.py" output="screen"/>
+</launch>
